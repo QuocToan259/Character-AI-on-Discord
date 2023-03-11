@@ -76,7 +76,7 @@ For example, if you go to the chat page of the character `Test Character` you wi
 The last part of the URL is the character ID:
 ![Character_ID](https://i.imgur.com/nd86fN4.png)
 
-##Run code
+## Run code
 ```
 node index.js
 ```

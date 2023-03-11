@@ -72,7 +72,7 @@ const userMap = new Map();
     await characterAI.authenticateWithToken(""); // <= Enter Your Token
     // await characterAI.authenticateAsGuest();  // <= Login as Guest
 
-    const characterId = "" // Discord moderator
+    const characterId = "" // <= Enter Your ID Character (Discord moderator)
 
     
 

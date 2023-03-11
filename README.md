@@ -22,6 +22,9 @@ If you like this project, please check their [website](https://character.ai/).
 * Guest & token login support
 
 ## Installation
+```bash
+npm install discord.js
+```
 
 ```bash
 npm install node_characterai
@@ -72,6 +75,11 @@ For example, if you go to the chat page of the character `Test Character` you wi
 
 The last part of the URL is the character ID:
 ![Character_ID](https://i.imgur.com/nd86fN4.png)
+
+##Run code
+```
+node index.js
+```
 
 ## Disclaimer
 ❤️ This project is updated frequently, always check for the latest version for new features or bug fixes.

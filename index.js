@@ -51,6 +51,7 @@ const userMap = new Map();
       
           // Send the message to the chat instance and await the response
           message.channel.sendTyping();
+          const messageContent = `${username}: ${message.content}`;
           const response = await chat.sendAndAwaitResponse(message.content, true);
       
           // Send the response back to the Discord channel

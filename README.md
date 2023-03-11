@@ -1,8 +1,12 @@
+# Copyright by realcoloride
+https://github.com/realcoloride/node_characterai
+
 # Character AI Unofficial Node API
 
 > Node.js client for the unofficial [Character AI API](https://character.ai/), an awesome website which brings characters to life with AI!
 
 ## Intro
+Edited a few things to make it easier to use.
 
 This repository is inspired by [RichardDorian's unofficial node API](https://github.com/RichardDorian/node-character.ai/).
 Though, I found it hard to use and it was not really stable and archived. So I remade it in javascript.
